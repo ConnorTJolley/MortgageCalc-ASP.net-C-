@@ -1,0 +1,7 @@
+C:\Users\wrg0040\Desktop\Winforms\WinForms Practice\WinForms Practice\bin\Debug\WinForms Practice.exe
+C:\Users\wrg0040\Desktop\Winforms\WinForms Practice\WinForms Practice\bin\Debug\WinForms Practice.pdb
+C:\Users\wrg0040\Desktop\Winforms\WinForms Practice\WinForms Practice\obj\x86\Debug\WinForms_Practice.Form1.resources
+C:\Users\wrg0040\Desktop\Winforms\WinForms Practice\WinForms Practice\obj\x86\Debug\WinForms_Practice.Properties.Resources.resources
+C:\Users\wrg0040\Desktop\Winforms\WinForms Practice\WinForms Practice\obj\x86\Debug\WinForms Practice.csproj.GenerateResource.Cache
+C:\Users\wrg0040\Desktop\Winforms\WinForms Practice\WinForms Practice\obj\x86\Debug\WinForms Practice.exe
+C:\Users\wrg0040\Desktop\Winforms\WinForms Practice\WinForms Practice\obj\x86\Debug\WinForms Practice.pdb
